@@ -1,4 +1,4 @@
-# Astral Echoes Demo
+# Astral Echoes Demo Build
 
 ## Game demo made with Unity and based in the short story "Kaleidoscope" by Ray Bradbury.
 
